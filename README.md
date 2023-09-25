@@ -5,8 +5,8 @@
 ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 
->> Backend of my crud project, using Spring Boot and MySQL,
->> Pretending to be the administration page of a Publisher
+>> Backend of my crud project, using Spring Boot and MySQL, </p>
+>> Pretending to be the administration page of a Publisher </p>
 >> Here the Frontend part -> <a href="https://github.com/Tina-bot/AdminPublisherFrontend"> AdminPublisherFrontend </a>
 
 
