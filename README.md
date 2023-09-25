@@ -20,7 +20,7 @@ Receives requests from the frontend to create, edit and delete games to the MySQ
 
 
 ## I want to test it 🔬
-You can download it, the backend is already prepared to create everything, but eliminate the method of creating the automatic database due to some problems that it generated already having it,
-it is solved in _application.properties_ by changing `spring.jpa.hibernate.ddl-auto = update` to  `spring. jpa.hibernate.ddl-auto = create`
+You can download it, the backend is already prepared to create everything </p> But I eliminated the method of creating the automatic database due to some problems that it generated already having it.</p>
+It is solved in _application.properties_ by changing : </p> `spring.jpa.hibernate.ddl-auto = update` to  `spring. jpa.hibernate.ddl-auto = create`
 
 ![tumblr_8c0bef384157f513e6600226f24d20bb_eee3361d_2048](https://github.com/Tina-bot/AdminPublisherBackend/assets/72955349/185cc981-9ad4-4a2d-8bed-fc712c3b99ef)
